@@ -1,4 +1,4 @@
-SparkX Soft Power Switch Mk2 USB-C
+SparkFun Soft Power Switch Mk2 USB-C
 ===================================================
 
 [![SparkX Soft Power Switch Mk2 (SPX-25366)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/25366)
