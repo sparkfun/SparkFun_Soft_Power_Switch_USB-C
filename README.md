@@ -1,9 +1,9 @@
 SparkFun Soft Power Switch Mk2 USB-C
 ===================================================
 
-[![SparkX Soft Power Switch Mk2 (SPX-25366)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/25366)
+[![SparkX Soft Power Switch Mk2 (PRT-28280)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/28280)
 
-[*SparkX Soft Power Switch Mk2 (SPX-25366)*](https://www.sparkfun.com/products/25366)
+[*SparkX Soft Power Switch Mk2 (PRT-28280)*](https://www.sparkfun.com/products/28280)
 
 
 The Soft Power Switch Mk2 is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~7 seconds will force a power-down. If you're building something with an enclosed Thing Plus board and need a good power button, this is the board you need.
