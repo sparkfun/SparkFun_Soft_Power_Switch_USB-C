@@ -62,14 +62,34 @@ Features
 
 Repository Contents
 -------------------
+
+* **.github/workflows** - YAML files used for GitHub Actions and GitHub Pages/mkdocs
 * **/Examples** - Example sketches demonstrating how to read and control the switch
-* **/Hardware** - KiCad design files
-* **LICENSE.md** - license information
+* **/Hardware** - KiCad design files (kicad_pro, .kicad_pcb, .kicad_sch)
+  * **/Production** - Production panel files
+* **/docs** - Online documentation files
+  * **/assets** - Folder containing all the file assets used for product documentation
+    * **/board_files** - Copy of design files used for product documentation
+    * **/component_documentation** - Datasheets and manuals for hardware components
+    * **/img** - Images for product documentation
+  * **/github** - Files stating how to contribute and filing issues used for product documentation
+  * **/javascript** - Folder containing custom javascript used for product documentation
+  * **/stylesheet** - Folder containing CSS files used for product documentation
+* **/overrides** - Customization files used for product documentation
+  * **/.icons** - Icons used for GitHub used for product documentation
+  * **./partials** - Used for product documentation
+* **LICENSE.md** contains the license information
 
 Product Versions
 ----------------
-* [PRT-27081](https://www.sparkfun.com/products/27081) - SparkFun REDs release.
-* [SPX-25366](https://www.sparkfun.com/products/25366) - Original SparkX Release.
+* [PRT-27081](https://www.sparkfun.com/products/27081) - SparkFun Red Release v2
+* [SPX-25366](https://www.sparkfun.com/products/25366) - Original SparkX Release v2
+* [SPX-17870](https://www.sparkfun.com/products/17870) - Original SparkX Release v1
+
+Version History
+---------------
+* v2.0 - Soft Power Switch Mk2 - USB (PRT-27081 and SPX-25366)
+* v1.0 - Soft Power Switch Mk1 (JST 2mm) (SPX-17870)
 
 License Information
 -------------------
