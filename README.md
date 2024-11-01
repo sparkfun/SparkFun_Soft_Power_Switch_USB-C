@@ -1,9 +1,9 @@
-SparkFun Soft Power Switch Mk2 USB-C
+SparkFun Soft Power Switch - USB-C
 ===================================================
 
-[![SparkFun Soft Power Switch Mk2 (PRT-27081)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/27081)
+[![SparkFun Soft Power Switch - USB-C (PRT-27081)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/27081)
 
-[*SparkFun Soft Power Switch Mk2 (PRT-27081)*](https://www.sparkfun.com/products/27081)
+[*SparkFun Soft Power Switch - USB-C (PRT-27081)*](https://www.sparkfun.com/products/27081)
 
 
 The Soft Power Switch Mk2 is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~7 seconds will force a power-down. If you're building something with an enclosed Thing Plus board and need a good power button, this is the board you need.
@@ -30,7 +30,7 @@ If needed, pads are provided for a larger, external button.
 
 The Soft Power Switch supports battery charging. If the target device has onboard LiPo charging, current can be passed back through the switch circuit and charge the battery.
 
-<b>Heads up!</b> The Mk2 Soft Power Switch works up to 5.5V only. (Mk1 is good up to 12V.)
+<b>Heads up!</b> The Soft Power Switch - USB-C works up to 5.5V only. (Mk1 is good up to 12V.)
 
 Pros:
 
@@ -88,7 +88,7 @@ Product Versions
 
 Version History
 ---------------
-* v2.0 - Soft Power Switch Mk2 - USB (PRT-27081 and SPX-25366)
+* v2.0 - Soft Power Switch - USB-C (PRT-27081 and SPX-25366)
 * v1.0 - Soft Power Switch Mk1 (JST 2mm) (SPX-17870)
 
 License Information
