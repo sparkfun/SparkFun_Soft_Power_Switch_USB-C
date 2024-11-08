@@ -80,16 +80,21 @@ Repository Contents
   * **./partials** - Used for product documentation
 * **LICENSE.md** contains the license information
 
+Documentation
+--------------
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_Soft_Power_Switch_USB-C)** - Basic hookup guide for the Soft Power Switch - USB-C.
+
 Product Versions
 ----------------
-* [PRT-27081](https://www.sparkfun.com/products/27081) - SparkFun Red Release v2
-* [SPX-25366](https://www.sparkfun.com/products/25366) - Original SparkX Release v2
-* [SPX-17870](https://www.sparkfun.com/products/17870) - Original SparkX Release v1
+* [PRT-27081](https://www.sparkfun.com/products/27081) - SparkFun Red Release
+* [SPX-25366](https://www.sparkfun.com/products/25366) - Original SparkX Release Mk2
+* [SPX-17870](https://www.sparkfun.com/products/retired/17870) - Original SparkX Release Mk1
 
 Version History
 ---------------
-* v2.0 - Soft Power Switch - USB-C (PRT-27081 and SPX-25366)
-* v1.0 - Soft Power Switch Mk1 (JST 2mm) (SPX-17870)
+* v1.0 - SparkFun Soft Power Switch - USB-C (PRT-27081)
+* v01 - SparkX Soft Power Switch Mk2 - USB-C (SPX-25366)
+* v1.0 - SparkX Soft Power Switch Mk1 (JST 2mm) (SPX-17870)
 
 License Information
 -------------------
