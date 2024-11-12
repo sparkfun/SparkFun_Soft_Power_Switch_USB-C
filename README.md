@@ -1,7 +1,7 @@
 SparkFun Soft Power Switch - USB-C
 ===================================================
 
-[![SparkFun Soft Power Switch - USB-C (PRT-27081)](./Hardware/Dimensions.png)](https://www.sparkfun.com/products/27081)
+[![SparkFun Soft Power Switch - USB-C (PRT-27081)](https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/2/8/0/27081-Soft-Power-Switch-USBC-Feature.jpg)](https://www.sparkfun.com/products/27081)
 
 [*SparkFun Soft Power Switch - USB-C (PRT-27081)*](https://www.sparkfun.com/products/27081)
 
