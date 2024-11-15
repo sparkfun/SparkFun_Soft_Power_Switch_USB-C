@@ -39,7 +39,7 @@ For temporary connections to the PTHs, you could use IC hooks to test out the pi
 
 ### Input Power
 
-The board was designed to be used with USB. Simply insert the USB-C connector into the JST connector labeled as IN.
+The board was designed to be used with USB. Simply insert the USB-C connector into the USB connector labeled as IN.
 
 
 <div style="text-align: center;">
