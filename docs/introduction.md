@@ -7,7 +7,7 @@ The [SparkFun Soft Power Switch](https://www.sparkfun.com/products/27081) is a p
 
 -   <a href="https://www.sparkfun.com/products/27081">
       <figure markdown>
-        <img src="" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Soft Power Switch - USB-C">
+        <img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/2/8/0/27081-Soft-Power-Switch-USBC-Feature.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Soft Power Switch - USB-C">
       </figure>
     </a>
 
@@ -63,7 +63,7 @@ To follow along with this tutorial, you will need the following materials. You m
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/27081">
       <figure markdown>
-        <img src="" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Soft Power Switch - USB-C">
+        <img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/8/2/8/0/27081-Soft-Power-Switch-USBC-Feature.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Soft Power Switch - USB-C">
       </figure>
     </a>
 
@@ -89,35 +89,20 @@ To follow along with this tutorial, you will need the following materials. You m
       CAB-16905
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
--   <a href="https://www.sparkfun.com/products/115">
+-   <a href="https://www.sparkfun.com/products/9741">
       <figure markdown>
-        <img src="https://cdn.sparkfun.com/assets/parts/1/0/5/00115-03-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Female Headers">
+        <img src="https://cdn.sparkfun.com/assets/parts/3/6/9/6/09741-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="IC Hook with Pigtail">
       </figure>
     </a>
 
     ---
 
-    <a href="https://www.sparkfun.com/products/115">
-      <b>Female Headers</b>
+    <a href="https://www.sparkfun.com/products/9741">
+      <b>IC Hook with Pigtail</b>
       <br />
-      PRT-00115
+      CAB-09741
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
--   <a href="https://www.sparkfun.com/products/8431">
-      <figure markdown>
-        <img src="https://cdn.sparkfun.com/assets/parts/1/1/8/1/JumperWire-Male-01-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Jumper Wires Premium 6" M/M Pack of 10">
-      </figure>
-    </a>
-
-    ---
-
-    <a href="https://www.sparkfun.com/products/8431">
-      <b>Jumper Wires Premium 6" M/M Pack of 10</b>
-      <br />
-      PRT-08431
-    </a>
-<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
-
 -   <a href="https://www.sparkfun.com/products/14460">
       <figure markdown>
         <img src="https://cdn.sparkfun.com/assets/parts/1/2/2/1/8/14460-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Multicolor Buttons - 4-pack">
@@ -162,6 +147,34 @@ To follow along with this tutorial, you will need the following materials. You m
       PRT-12045
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
+-   <a href="https://www.sparkfun.com/products/9140">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/2/5/5/7/09140-02-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Jumper Wires Premium 6" M/F Pack of 10">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/9140">
+      <b>Jumper Wires Premium 6" M/F Pack of 10</b>
+      <br />
+      PRT-09140
+    </a>
+<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
+-   <a href="https://www.sparkfun.com/products/8431">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/1/1/8/1/JumperWire-Male-01-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Jumper Wires Premium 6" M/M Pack of 10">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/8431">
+      <b>Jumper Wires Premium 6" M/M Pack of 10</b>
+      <br />
+      PRT-08431
+    </a>
+<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 </div>
 
 
@@ -171,20 +184,6 @@ To follow along with this tutorial, you will need the following materials. You m
 For those that want to take advantage of the USB-C connectors, you can grab the following cables from the catalog.
 
 <div class="grid cards col-4" markdown>
-<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
--   <a href="https://www.sparkfun.com/products/24060">
-      <figure markdown>
-        <img src="https://cdn.sparkfun.com/assets/parts/2/4/3/8/2/CAB-24060-USBC-to-USBC-Silicone-Power-Charging-Cable-Detail.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB-C to USB-C Silicone Power Charging Cable - 3m">
-      </figure>
-    </a>
-
-    ---
-
-    <a href="https://www.sparkfun.com/products/24060">
-      <b>USB-C to USB-C Silicone Power Charging Cable - 3m</b>
-      <br />
-      PRT-24060
-    </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 -   <a href="https://www.sparkfun.com/products/16905">
       <figure markdown>
@@ -374,6 +373,34 @@ Depending on your setup, you may want to use IC hooks for a temporary connection
       <b>Jumper Wires Premium 6" M/F Pack of 10</b>
       <br />
       PRT-09140
+    </a>
+<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
+-   <a href="https://www.sparkfun.com/products/115">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/1/0/5/00115-03-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Female Headers">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/115">
+      <b>Female Headers</b>
+      <br />
+      PRT-00115
+    </a>
+<!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
+-   <a href="https://www.sparkfun.com/products/8431">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/1/1/8/1/JumperWire-Male-01-L.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Jumper Wires Premium 6" M/M Pack of 10">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/8431">
+      <b>Jumper Wires Premium 6" M/M Pack of 10</b>
+      <br />
+      PRT-08431
     </a>
 <!-- ----------WHITE SPACE BETWEEN PRODUCTS---------- -->
 </div>

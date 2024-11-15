@@ -45,7 +45,7 @@ The board was designed to be used with USB. Simply insert the USB-C connector in
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/ width="600px" height="600px" alt="USB-C Cable inserted into USB-C Connector"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_IN.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_IN.jpg" width="600px" height="600px" alt="USB-C Cable inserted into USB-C Connector"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>USB-C Cable inserted into USB-C Connector</i></td>
@@ -82,12 +82,12 @@ Of course, power can also be soldered directly to the PTH as well.
 
 ### Output Power
 
-For boards that have a built-in 2-pin JST connector for LiPo batteries, you can [splice two](https://learn.sparkfun.com/tutorials/working-with-wire/all#how-to-splice-wires) JST cables together. Then you can insert it between the Soft Power Switch's JST connector labeled OUT and the other end will be inserted into the JST connector of the target board being powered (in this case, the SparkFun IoT RedBoard - ESP32 Development Board).
+Then you can insert it between the Soft Power Switch's USB connector labeled OUT and the other end will be inserted into the USB connector of the target board being powered (in this case, the SparkFun IoT RedBoard - ESP32 Development Board).
 
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/ width="600px" height="600px" alt="USB Cable between the Soft Power Switch - USB-C and IoT RedBoard - ESP32"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Output_IoT_RedBoard_ESP32.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Output_IoT_RedBoard_ESP32.jpg" width="600px" height="600px" alt="USB Cable between the Soft Power Switch - USB-C and IoT RedBoard - ESP32"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>USB Cable between the Soft Power Switch - USB-C and IoT RedBoard - ESP32</i></td>
@@ -121,7 +121,7 @@ Of course, power can also be soldered directly to the PTH as well. Since we are 
 </div>
 
 !!! note
-    The voltage range of the Soft Power Switch - USB-C is between 1.8V to 5.5V. Users can also connect a different power source and connect the output to VIN or 5V of their system. Just make that the voltage is within the operating range of the target device.
+    The voltage range of the Soft Power Switch - USB-C is between 1.8V to 5.5V. Users can also connect a different power source and connect the output to VIN of their system. Just make that the voltage is within the operating range of the target device.
 
 
 
@@ -132,7 +132,7 @@ For users that need to connect an external button, you will simply need to conne
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/ width="600px" height="600px" alt="External Button Connected"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_External_Button.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_External_Button.jpg" width="600px" height="600px" alt="External Button Connected"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>External Button Connected</i></td>
@@ -172,7 +172,7 @@ To connect to the OFF and PUSH pins with a microcontroller, you will need two GP
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/ width="600px" height="600px" alt="OFF and PUSH Pins Connected to IoT RedBoard"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Button_State_Push.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Button_State_Push.jpg" width="600px" height="600px" alt="OFF and PUSH Pins Connected to IoT RedBoard"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>OFF and PUSH Pins Connected to IoT RedBoard</i></td>
@@ -206,9 +206,11 @@ To connect to the OFF and PUSH pins with a microcontroller, you will need two GP
 !!! tip
     Remember, the PUSH pin requires a pull-up resistor when connecting it to a microcontroller's GPIO pin. You can use the [internal pull-up resistor](https://learn.sparkfun.com/tutorials/pull-up-resistors/all) on the microcontroller so that the pin is not floating.
 
+
+
 ### Arduino Serial Output
 
-To view the Arduino's serial output when powering the system through USB, you will need to wire a 3.3V Serial Basic Breakout to the Arduino&apos;s serial UART. In this case, we connected to the SparkFun IoT RedBoard - ESP32 Development Board primary UART port. Depending on your microcontroller, you may need to adjust the pin connections and definitions with respect to the microcontroller's UART pins.
+To view the Arduino's serial output when powering the system through USB battery, you will need to wire a 3.3V Serial Basic Breakout to the Arduino&apos;s serial UART. In this case, we connected to the SparkFun IoT RedBoard - ESP32 Development Board primary UART port. Depending on your microcontroller, you may need to adjust the pin connections and definitions with respect to the microcontroller's UART pins.
 
 <div style="text-align: center;">
     <table>
@@ -242,7 +244,7 @@ To view the Arduino's serial output when powering the system through USB, you wi
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="3.3V Serial Basic Connected to ESP32 IoT RedBoard Hardware UART"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Battery_Serial_Basic_IoT_RedBoard_ESP32.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_Battery_Serial_Basic_IoT_RedBoard_ESP32.jpg" width="600px" height="600px" alt="3.3V Serial Basic Connected to ESP32 IoT RedBoard Hardware UART"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>3.3V Serial Basic Connected to ESP32 IoT RedBoard Hardware UART</i></td>

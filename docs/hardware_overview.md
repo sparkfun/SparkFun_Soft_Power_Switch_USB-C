@@ -6,8 +6,8 @@ In this section, we will highlight the hardware and pins that are broken out on 
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Top View"></a></td>
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Bottom View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top.jpg" width="600px" height="600px" alt="Top View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom.jpg" width="600px" height="600px" alt="Bottom View"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>Top View</i></td>
@@ -26,7 +26,7 @@ The [SparkX Mk1 Soft Power Switch](https://www.sparkfun.com/products/17870) is g
   <table>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/17870-Soft_Power_Switch-02_resize.jpg"><img src="../assets/img/17870-Soft_Power_Switch-02_resize.jpg" width="600px" height="600px" alt="SparkX Soft Power Switch Mk1"></a></td>
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="SparkFun Soft Power Switch - USB-C"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top.jpg" width="600px" height="600px" alt="SparkFun Soft Power Switch - USB-C"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>SparkX Soft Power Switch Mk1</i></td>
@@ -72,8 +72,8 @@ The maximum input voltage that the Soft Power Switch - USB-C can handle is **5.5
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Power, Ground and USB Connectors, Top View"></a></td>
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Power, Ground and USB Connectors Highlighted, Bottom View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_power.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_power.jpg" width="600px" height="600px" alt="Power, Ground and USB Connectors, Top View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_power.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_power.jpg" width="600px" height="600px" alt="Power, Ground and USB Connectors Highlighted, Bottom View"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;" colspan="2"><i>Power, Ground and USB Connectors Highlighted</i></td>
@@ -96,8 +96,8 @@ The board includes a built-in momentary push button as the power button. This pi
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Button Highlighted, Top View"></a></td>
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Button PTH Highlighted, Bottom View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_button_state.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_button_state.jpg" width="600px" height="600px" alt="Button Highlighted, Top View"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_button_state.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_button_state.jpg" width="600px" height="600px" alt="Button PTH Highlighted, Bottom View"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>Top View</i></td>
@@ -118,7 +118,7 @@ The board includes a built-in momentary push button as the power button. This pi
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="LEDs Highlighted"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_LEDs.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_top_LEDs.jpg" width="600px" height="600px" alt="LEDs Highlighted"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>LEDs Highlighted</i></td>
@@ -141,7 +141,7 @@ The back of the board includes jumpers to configure the board.
 <div style="text-align: center;">
   <table>
     <tr style="vertical-align:middle;">
-     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/"><img src="../assets/img/" width="600px" height="600px" alt="Jumpers Highlighted"></a></td>
+     <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><a href="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_jumpers.jpg"><img src="../assets/img/PRT-27081-Soft-Power-Switch-USB-C_bottom_jumpers.jpg" width="600px" height="600px" alt="Jumpers Highlighted"></a></td>
     </tr>
     <tr style="vertical-align:middle;">
      <td style="text-align: center; vertical-align: middle; border: solid 1px #cccccc;"><i>Jumpers Highlighted</i></td>
@@ -149,6 +149,21 @@ The back of the board includes jumpers to configure the board.
   </table>
 </div>
 
+### 3D Model
+
+A 3D model of the board and components was exported to a STEP file using KiCad.
+
+<!-- Import the component -->
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+
+<div style="text-align: center;">
+    <model-viewer src="../assets/3d_model/Soft_Power_Switch_USB-C_3D_Model.glb" camera-controls poster="../assets/3d_model/Soft_Power_Switch_USB-C_3D_image.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
+    </model-viewer>
+</div>
+<br />
+<div style="text-align: center">
+    <a href="../assets/3d_model/Soft_Power_Switch_USB-C_3D_Model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
+</div>
 
 
 ### Board Dimensions
