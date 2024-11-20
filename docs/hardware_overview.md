@@ -157,7 +157,7 @@ A 3D model of the board and components was exported to a STEP file using KiCad.
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 
 <div style="text-align: center;">
-    <model-viewer src="../assets/3d_model/Soft_Power_Switch_USB-C_3D_Model.glb" camera-controls poster="../assets/3d_model/Soft_Power_Switch_USB-C_3D_image.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
+    <model-viewer src="../assets/3d_model/Soft_Power_Switch_USB-C_3D_model.glb" camera-controls poster="../assets/3d_model/Soft_Power_Switch_USB-C_3D_image.png" environment-image="legacy" shadow-intensity="1.58" exposure="0.64" shadow-softness="0.24" tone-mapping="neutral" camera-orbit="-46.67deg 57.14deg 153.3m" field-of-view="30deg" style="width: 750px; height: 500px;">
     </model-viewer>
 </div>
 <br />
