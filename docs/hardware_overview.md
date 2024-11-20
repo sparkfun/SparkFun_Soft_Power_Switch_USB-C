@@ -162,7 +162,7 @@ A 3D model of the board and components was exported to a STEP file using KiCad.
 </div>
 <br />
 <div style="text-align: center">
-    <a href="../assets/3d_model/Soft_Power_Switch_USB-C_3D_Model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
+    <a href="../assets/3d_model/Soft_Power_Switch_USB-C_3D_model.step" target="stp_file" class="md-button">Click Here for the STEP File</a>
 </div>
 
 
