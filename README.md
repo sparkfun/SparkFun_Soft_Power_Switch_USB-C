@@ -6,7 +6,7 @@ SparkFun Soft Power Switch - USB-C
 [*SparkFun Soft Power Switch - USB-C (PRT-27081)*](https://www.sparkfun.com/products/27081)
 
 
-The Soft Power Switch Mk2 is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~7 seconds will force a power-down. If you're building something with an enclosed Thing Plus board and need a good power button, this is the board you need.
+The Soft Power Switch is a passive, hard on/off switch with software feedback and control. In other words, it's like the on/off switch on a laptop. A simple press will turn the system on. Another press can (with MCU intervention) turn off the system. And if things go really wrong, pressing and holding the button for ~7 seconds will force a power-down. If you're building something with an enclosed Thing Plus board and need a good power button, this is the board you need.
 
 The [Mk1 Soft Power Switch](https://www.sparkfun.com/products/17870) is great, but we do see occasional issues caused by component tolerances or the operating temperature. Mk2 is based on an application note by Texas Instruments, and is a completely digital design. It is based around a 74LVC1G175 D-type flip-flop - remember those?! - and is insensitive to temperature and component variation. It also includes improvements like: an over-current self-resetting 2A fuse; input and output LEDs. This version has USB-C connectors, but we also have a version with [JST 2mm](https://www.sparkfun.com/products/25365) battery connectors.
 

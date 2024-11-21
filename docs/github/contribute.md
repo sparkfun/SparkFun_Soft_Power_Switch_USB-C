@@ -4,7 +4,7 @@ Spot something wrong? Feel free to contribute our open-source design and documen
 ## Improve our Documentation
 All of this documentation can be modified by you! Please help us make it better.
 
-* These pages are contained in the [`docs` folder of the SparkFun Soft Power Switch Mk2 USB-C repository](https://github.com/sparkfun/SparkFun_Soft_Power_Switch_USB-C/tree/main/docs).
+* These pages are contained in the [`docs` folder of the SparkFun Soft Power Switch - USB-C repository](https://github.com/sparkfun/SparkFun_Soft_Power_Switch_USB-C/tree/main/docs).
 
 ### Submit a Correction
 1. Fork this repo
@@ -16,7 +16,7 @@ All of this documentation can be modified by you! Please help us make it better.
 ## Improve our Hardware Design
 All of our designs are open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder of the SparkFun Soft Power Switch Mk2 USB-C repository](https://github.com/sparkfun/SparkFun_Soft_Power_Switch_USB-C/tree/main/Hardware).
+* Our board design files are contained in the [`Hardware` folder of the SparkFun Soft Power Switch - USB-C repository](https://github.com/sparkfun/SparkFun_Soft_Power_Switch_USB-C/tree/main/Hardware).
 
 ### Submit a Design Improvement
 1. Fork this repo

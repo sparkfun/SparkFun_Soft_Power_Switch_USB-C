@@ -1,4 +1,4 @@
-Now that you've successfully got your SparkFun Soft Power Switch Mk2 - USB-C and running, it's time to incorporate it into your own project! For more information, check out the resources below:
+Now that you've successfully got your SparkFun Soft Power Switch - USB-C and running, it's time to incorporate it into your own project! For more information, check out the resources below:
 
 * [Schematic (PDF)](../assets/board_files/Soft_Power_Switch_USB-C_Schematic_V10.pdf)
 * [KiCad Files (ZIP)](../assets/board_files/Soft_Power_Switch_USB-C_v10.zip)
@@ -14,7 +14,7 @@ Now that you've successfully got your SparkFun Soft Power Switch Mk2 - USB-C and
 
 Or check out the other Soft Power Switch with JST connectors!
 
-<div class="grid cards col-4" markdown>
+<div class="grid cards" style="width:500px; margin: 0 auto;" markdown>
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
 -   <a href="https://docs.sparkfun.com/SparkFun_Soft_Power_Switch_Mk2">
       <figure markdown>
