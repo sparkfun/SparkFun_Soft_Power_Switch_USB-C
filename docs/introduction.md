@@ -449,7 +449,7 @@ If you aren’t familiar with the following concepts, we also recommend checking
       <b>Installing Arduino IDE</b>
     </a>
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
--   <a href="https://learn.sparkfun.com/tutorials/redboard-turbo-hookup-guide">
+-   <a href="https://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide">
       <figure markdown>
         <img src="https://cdn.sparkfun.com/assets/learn_tutorials/2/2/5/7/285808434_548438690244031_7008413248633042033_n.jpg" style="width:264px; height:148px; object-fit:contain;" alt="IoT RedBoard ESP32 Development Board Hookup Guide">
       </figure>
@@ -457,7 +457,7 @@ If you aren’t familiar with the following concepts, we also recommend checking
 
     ---
 
-    <a href="hhttps://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide">
+    <a href="https://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide">
       <b>IoT RedBoard ESP32 Development Board Hookup Guide</b>
     </a>
 <!-- ----------WHITE SPACE BETWEEN GRID CARDS---------- -->
